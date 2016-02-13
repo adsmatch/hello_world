@@ -1,2 +1,3 @@
 # hello_world
 my first repository
+Im Aron I went to a school called Westwood for an associate degree in software engineering and web development 12 years ago but fell short by two months for personal issues. So I have some experience from school and have recently done some self teaching through books and online material. Would like to actually have a career in the field. I have some knowledge in C++, JavaScript, HTML, CSS, Visual Basic, PHP, MySQL, and a tiny bit of Java. I have a web site that Ive been working building off and on for a couple years that is currently offline because server issues but will be back on soon at www.ads-match.com and www.mobile.ads-match.com and Im trying to pick up Adroid App programming for a idea a friend wants to try to develope.
